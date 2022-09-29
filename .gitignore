@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/rabbitmq-saga/obj
+/rabbitmq-saga/bin/Debug/net5.0
+/rabbitmq-message/obj
+/rabbitmq-message/bin/Debug/net5.0
+/rabbitmq-message/.vs
+/saga-machine/obj
+/saga-machine/bin/Debug/net5.0
+/saga-msorder/saga-ms-order/obj
+/saga-msorder/saga-ms-order/bin/Debug/net5.0
+/saga-msorder/saga-ms-order/.vs
+/Saga-msstock/obj
+/Saga-msstock/bin/Debug/net5.0
+/Saga-msstock/.vs
